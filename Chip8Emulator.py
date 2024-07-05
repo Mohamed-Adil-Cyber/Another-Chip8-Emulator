@@ -445,7 +445,7 @@ def opcode(hexString):
 
         ProgramCounter += 2
 
-#create board
+#Read rom to create initial board
 def draw(Vx, Vy, sprite):
         collision = False
 
@@ -540,7 +540,7 @@ def keyboard():
 
                 except: pass
                 
-#Read rom to edit board for the rom
+#Create board
 def pixels():
         for i in range(0, len(board)):
             for j in range(0, len(board[0])):
