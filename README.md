@@ -5,9 +5,13 @@ The program takes the rom file creates a background with pygame, creates a progr
 
 references:
 http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#2.2
+
 https://en.wikipedia.org/wiki/CHIP-8
+
 https://github.com/mattmikolay/chip-8
+
 https://github.com/JamesGriffin/CHIP-8-Emulator
+
 https://github.com/AlpacaMax/Python-CHIP8-Emulator
 
 games:
