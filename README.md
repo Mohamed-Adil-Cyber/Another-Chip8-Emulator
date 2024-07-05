@@ -4,6 +4,7 @@ Started developing this script to test emu dev and there is no emulator easier a
 The program takes the rom file creates a background with pygame, creates a program counter and starts at the entry point of 0x200 going through the opcodes 1 by 1.
 
 references:
+
 http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#2.2
 
 https://en.wikipedia.org/wiki/CHIP-8
