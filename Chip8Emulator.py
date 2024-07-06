@@ -10,7 +10,7 @@ from tkinter import filedialog
 
 #defining entry point for opcodes in the rom
 ProgramCounter = 0x200
-#defining necessary global values fro board,delaytimer and soundtimer
+#defining necessary global values for board,delaytimer and soundtimer
 board = []
 delayTimer = 0
 soundTimer  = 0
