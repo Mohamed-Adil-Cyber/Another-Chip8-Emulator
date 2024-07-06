@@ -513,7 +513,7 @@ def hexConvert(Num):
         
         return newHex
 
-#Translate keyboard inputs to 8chip commands
+#Translate keyboard inputs to chip8 commands
 def keyboard():
         global keys
         global keyDict
